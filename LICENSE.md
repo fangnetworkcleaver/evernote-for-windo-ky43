@@ -1,4 +1,4 @@
-# 
+# Evernote for Windows new Script: rich-text-editing & search-functionality offers the most advanced Evernote for Windows script, with rich-text-editing and search-functionality.
 
 
 
